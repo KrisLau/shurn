@@ -1,0 +1,4 @@
+C:\Users\Kris\Desktop\Git test\shurn\Density_Detection\bin\Debug\Density_Detection.exe.config
+C:\Users\Kris\Desktop\Git test\shurn\Density_Detection\obj\Debug\Density_Detection.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Desktop\Git test\shurn\Density_Detection\obj\Debug\Density_Detection.Form1.resources
+C:\Users\Kris\Desktop\Git test\shurn\Density_Detection\obj\Debug\Density_Detection.csproj.GenerateResource.Cache
